@@ -3,6 +3,7 @@
 **DarkPatch** is a deliberately vulnerable lab machine built for penetration testers and CTF players.
 The machine contains an outdated service affected by a **public CVE vulnerability**, allowing attackers to gain initial access.
 
+<img src="assets/Darkpatch.png" height=500px >
 ---
 
 ## What You Will Learn
