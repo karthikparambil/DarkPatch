@@ -4,7 +4,7 @@
 The machine contains an outdated service affected by a **public CVE vulnerability**, allowing attackers to gain initial access.
 
 <img src="assets/Darkpatch.png" height=500px >
----
+
 
 ## What You Will Learn
 
@@ -14,8 +14,8 @@ This machine teaches the following concepts:
 * Exploiting a known **CVE vulnerability**
 * Gaining **initial shell access**
 * Post-exploitation enumeration
-* **Linux privilege escalation**
-* Reading sensitive files to capture flags
+* Linux privilege escalation
+
 ---
 
 ## Target Audience
@@ -29,11 +29,9 @@ This machine teaches the following concepts:
 Download the vulnerable machine from:
 
 **Download Link:**
-[`Download`](https://drive.google.com/file/d/1tSmdZ8ys4Gs-6by5CbbuuAQSCyKZU1YU/view?usp=sharing)
+# [`Download`](https://drive.google.com/file/d/1tSmdZ8ys4Gs-6by5CbbuuAQSCyKZU1YU/view?usp=sharing)
 
 ---
-
-
 
 ## Author
 
